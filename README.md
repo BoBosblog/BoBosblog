@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<pre>
+   I’m currently working on learning to operate an excavator!
+🌱 I’m currently learning how to master the art of excavator operation.
+👯 I’m looking to collaborate on exciting excavator projects!
+🤔 I’m looking for help with any advanced excavator techniques.
+💬 Ask me about anything related to excavators!
+📫 How to reach me: You can email me at did_not_eat_enough@yeah.net.
+</pre>
 <!--
 **BoBosblog/BoBosblog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
